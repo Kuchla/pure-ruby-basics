@@ -1,6 +1,8 @@
-# onebitcode course https://onebitcode.com/course/ruby-puro/
+# Ruby Basic Concepts
 
 solved exercises
+
+onebitcode course: https://onebitcode.com/course/ruby-puro/
 
 ### Prerequisites
 
